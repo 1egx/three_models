@@ -1,0 +1,6 @@
+.vscode
+outputs/*
+!output/.gitkeep
+uploads/*
+!uploads/.gitkeep
+__pycache__/
